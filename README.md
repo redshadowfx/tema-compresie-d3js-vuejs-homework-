@@ -1,24 +1,22 @@
 # tema-compresie
 
-## Project setup
-```
-npm install
-```
+Am incercat sa pun cat de bine am putut comentariile 
+stiu ca in unele zone se putea optimiza dar is fericit ca merge bine si asa cum e.
 
-### Compiles and hot-reloads for development
+
+## Ca si depentinde trebuie instalat vue si d3
+
+npm install @vue/cli 
+si 
+npm install d3
+
+### Pentru a rula aplicatia intr-un server de development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Daca vrei sa il pui in productie :))
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
